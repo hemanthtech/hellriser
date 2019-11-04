@@ -1,7 +1,7 @@
 ## Settings
 title: pRoJEct-Hell
-owner: "DeerRIDER"
-url: "https://hell-riser.github.io/hellriser/"
+owner: "Hell Riser"
+url: "https://hell-riser.github.io"
 baseurl: "/"
 permalink: /:title/
 description: ""
