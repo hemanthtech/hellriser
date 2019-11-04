@@ -17,8 +17,12 @@ permalink: /
 * Location: 0.0.0.0
 * Identity: Unknown
 * Now If You'll Excuse Me. I Have Got A Little Hell To Rise.
+  * secret msg 1: 
+  <p class="encrypted" id="OznoOznoOznoOznoOznoOznoOzno">Encrypted content!</p>
+  * secret msg 2: 
+  <p class="encrypted" id="OznoOznoOznoOznoOznoOznoOzno">Encrypted content!</p>
 
 ## Download This Project
 
- <p class="encrypted" id="cookn://bdocpw.xjh/Czgg-Mdnzm/czggmdnzm">Access Denied!!!</p>
+ [**HellRiser (Github)**](https://github.com/Hell-Riser/hellriser)
 
