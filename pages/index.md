@@ -18,9 +18,9 @@ permalink: /
 * Identity: Unknown
 * Now If You'll Excuse Me. I Have Got A Little Hell To Rise.
   * secret msg 1: 
-  <p class="encrypted" id="OznoOznoOznoOznoOznoOznoOzno">Encrypted content!</p>
+  <p class="encrypted" id="SdrsSdrsSdrsSdrsSdrsSdrsSdrs">Encrypted content!</p>
   * secret msg 2: 
-  <p class="encrypted" id="OznoOznoOznoOznoOznoOznoOzno">Encrypted content!</p>
+  <p class="encrypted" id="SdrsSdrsSdrsSdrsSdrsSdrsSdrs">Encrypted content!</p>
 
 ## Download This Project
 
