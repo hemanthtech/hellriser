@@ -2,7 +2,7 @@
 title: pRoJEct-Hell
 owner: "Hell Riser"
 url: "https://hell-riser.github.io"
-baseurl: "/"
+baseurl: "/hellriser"
 permalink: /:title/
 description: ""
 markdown: kramdown
