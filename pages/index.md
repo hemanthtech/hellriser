@@ -5,15 +5,15 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: ""
-author: ""
+title: "Hell Riser"
+author: "Hell-Riser"
 encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
+# PROJECT Hell-Riser
 
-##  Features
+##  Welcome
 * Highly customizable, content-oriented with The Matrix style
 * Eyesight-protection layout
 * Decrypt and encrypt text (access token: 233): 
