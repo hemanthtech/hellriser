@@ -7,7 +7,7 @@ btn_text: true
 footer: true
 title: "Hell Riser"
 author: "Hell-Riser"
-encrypted_text: false
+encrypted_text: true
 permalink: /
 ---
 
