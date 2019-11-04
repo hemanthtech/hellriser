@@ -1,13 +1,13 @@
 ---
 layout: default
 post_list: "date"
-toc: false
+toc: true
 home_btn: true
 btn_text: true
 footer: true
 title: "Hell Riser"
 author: "Hell-Riser"
-encrypted_text: true
+encrypted_text: false
 permalink: /
 ---
 
